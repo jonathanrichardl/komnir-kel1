@@ -41,7 +41,7 @@ def conectar_para_dirigir():
 ## 4. Use type annotations for functions
 ### Dos 
 ```
-def is_it_one(x: int) -> string:
+def is_it_one(x: int) -> str:
     if x == 1:  
         return "Yes"
     return "No"
