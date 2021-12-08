@@ -53,7 +53,7 @@ def increment_all_elements(array : np.array) -> None:
 ```
 ### Don'ts 
 ```
-def is_it_one(max_retries):
+def is_it_one(x):
      if x == 1:  
         return "Yes"
     return "No"
